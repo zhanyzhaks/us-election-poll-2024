@@ -43,4 +43,3 @@ Created by **I. Z. Zhakom** — Data Scientist & Visualization Enthusiast.
 
 💼 Facebook: [Facebook Profile](https://facebook.com/zhantim-zhakom)
 
-[LinkedIn Profile](https://linkedin.com/in/zhantim-zhakom)
