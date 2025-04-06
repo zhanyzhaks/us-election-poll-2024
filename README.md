@@ -39,6 +39,8 @@ Created by **I. Z. Zhakom** — Data Scientist & Visualization Enthusiast.
 ## 📬 Contact
 📧 Email: zhantimzhakom@gmail.com
 
-💼 LinkedIn: linkedin.com/in/zhantim-zhakom
+💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/zhantim-zhakom)
+
+💼 Facebook: [Facebook Profile](https://facebook.com/zhantim-zhakom)
 
 [LinkedIn Profile](https://linkedin.com/in/zhantim-zhakom)
