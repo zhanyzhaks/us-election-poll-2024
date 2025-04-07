@@ -26,6 +26,8 @@ Identify voting patterns and regional support.
 ## 🗺️ Visualization
 <img src="Dashboard1.png" width="700"/>
 
+<img src="Dashboard2.png" width="700"/>
+
 **Red States:** Voted for Donald Trump
 
 **Blue States:** Voted for Kamala Harris
